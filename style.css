@@ -18,12 +18,12 @@ font-size: 18px;;
     --bg-secondary-color:#fff;
     --light-brown:#c7a17a;
     --dark-gray:#fbfbfb;
-    --black:#1f2226;
+    --black:#141516;
 }
  h1 ,h2 ,h3 {
-   color: pink;
+   color: rgb(228, 9, 46);
    font-family: "Oswald", sans-serif;
-   color:palevioletred
+   color:rgb(222, 10, 81)
    
 
 }
